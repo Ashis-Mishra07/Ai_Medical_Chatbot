@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+gtts
+pygame
+pydub
+speechrecognition
+groq
+ffmpeg-python
