@@ -46,8 +46,7 @@ import subprocess
 import platform
 import pygame
 
-AudioSegment.converter = "C:\\Users\\91993\\Downloads\\ffmpeg-2025-06-17-git-ee1f79b0fa-full_build\\ffmpeg-2025-06-17-git-ee1f79b0fa-full_build\\bin\\ffmpeg.exe"
-
+AudioSegment.converter = "/usr/bin/ffmpeg"
 
 # def text_to_speech_with_gtts(input_text, output_filepath):
 #     language="en"
