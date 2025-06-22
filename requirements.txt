@@ -1,4 +1,5 @@
 streamlit
+gradio
 python-dotenv
 gtts
 pygame
